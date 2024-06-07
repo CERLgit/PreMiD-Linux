@@ -1,3 +1,7 @@
+<h2>This repo adds no new functionality, it simply updates the dependencies. One of these being electron which allows for use of premid without --no-sandbox.</h2>
+
+##
+
 <img src=".github/mLogo.png" width="150" height="150" align="left"></img>
 
 <h1>PreMiD <code>--linux</code></h1>
